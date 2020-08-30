@@ -4,8 +4,8 @@ public class b3 {
     int max = 0;
     int min = 999;
     int total = 0;
-    int n = args.length;
-    for (int i = 0; i < n; i++) {
+    double average;
+    for (int i = 0; i < args.length; i++) {
       if (Integer.parseInt(args[i]) > max) {
         max = Integer.parseInt(args[i]);
       }
@@ -15,9 +15,10 @@ public class b3 {
       }
       total += Integer.parseInt(args[i]);
     }
+    average = total / args.length;
     System.out.println("max=" + max);
     System.out.println("min=" + min);
     System.out.println("total=" + total);
-    System.out.println("average=" + total / n);
+    System.out.println("average=" + average);
   }
 }
