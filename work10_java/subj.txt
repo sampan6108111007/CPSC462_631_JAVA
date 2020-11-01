@@ -1,0 +1,10 @@
+cpsc234,java
+cpsc235,hci
+cpsc236,oop
+cpsc237,c#
+cpsc238,html
+cpsc239,css
+cpsc240,bootstrap
+cpsc241,python
+cpsc242,mysql
+cpsc243,javascript
