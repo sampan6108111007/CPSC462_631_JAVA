@@ -1,0 +1,9 @@
+003,cpsc236,B
+004,cpsc237,B
+005,cpsc238,C
+006,cpsc239,C
+007,cpsc240,A
+008,cpsc241,B
+009,cpsc242,C
+010,cpsc243,A
+011,245,A
